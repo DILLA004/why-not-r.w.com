@@ -13,7 +13,7 @@
 
 @font-face{
 	font-family: flanela-c;
-	src: url(../Fonts/Flanela.TTF.ttf);
+	src: url(Flanela.TTF.ttf);
 }
 h1,h2,h3,h4,h5,h6,p,ul{
 	font-family: outfit;
@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6,p,ul{
 	will-change: transform;
 }
 body{
-	background-image: url(../images/russ-bg.jpeg);
+	background-image: url(russ-bg.jpeg);
 	background-size: 100px;
 	color: #ffdead;
 	font-family: flanela-c;
